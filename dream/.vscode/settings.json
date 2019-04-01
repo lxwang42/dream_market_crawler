@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/anaconda3/envs/captcha/bin/python",
+    "python.linting.pylintArgs": ["--disable=E0611"]
+}

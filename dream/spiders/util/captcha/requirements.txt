@@ -1,0 +1,9 @@
+numpy
+imutils
+sklearn
+tensorflow
+keras
+opencv-python
+requests
+stem
+lxml
